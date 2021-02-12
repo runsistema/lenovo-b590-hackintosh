@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+Lenovo B590 (i3/ 8Gb/ GT720M)
+=============================
 
-You can use the [editor on GitHub](https://github.com/runsistema/lenovo-b590-hackintosh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Характеристики
+--------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Материнская плата:** Lenovo 20208 (B590, BIOS H1ET85WW – 1.23, Phoenix)
 
-### Markdown
+**Экран:** LG Philips LP156WH2-TLA1 (1366x768, 16:9, HD, 15.6 LCD TN+film)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Процессор:** Intel i3-3110M (2,4 Гц, 2 ядра – 4 потока)
 
-```markdown
-Syntax highlighted code block
+**ОЗУ:** 8ГБ (AMD R534G1601S1SL 4ГБ x 2 - DDR3 SODIMM, 1.6 Гц,)
 
-# Header 1
-## Header 2
-### Header 3
+**Видеокарта:** nVidia GT 720M (GF117M, 1Гб, Fermi, DDR3 - Samsung, L2: 128 кб) / Intel HD 4000 (общая 3,9 Гб, оперативная 4,9 Гб)
 
-- Bulleted
-- List
+**Клавиатура:** PS/2
 
-1. Numbered
-2. List
+**Тачпад:** PS/2 (Synaptics Touchpad)
 
-**Bold** and _Italic_ and `Code` text
+**Ethernet:** Realtek RTL8168/8111
 
-[Link](url) and ![Image](src)
-```
+**WiFi/Bluetooth:** Broadcom BCM43142 (Broadcom Wi-Fi 802.11b/g/n Wireless Network Adapter PCI, Bluetooth 4.0 )
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Динамики и микрофон:** Realtek ALC269 и High Definition Audio (и Intel Panther Point HDMI)
 
-### Jekyll Themes
+**USB порты:** 2.0 x 2; 3.0 x 2 + DVD привод + Alcor Micro USB 2.0 Card Reader (картридер)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/runsistema/lenovo-b590-hackintosh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Видео интерфейсы:** VGA (D-Sub), HDMI
 
-### Support or Contact
+**Аудио интерфейсы:** 3.5 мм jack (аудио/наушники)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Веб-камера:** Lenovo EasyCamera
+
+**Аккумулятор**: 4100 мАч (Li-ion, L11L6Y01 45N1048, 48Wh, 10.8V, 75)
+
+**Дополнительно**: 1 x вентилятор процессора
+
+ 
+
+Форумы
+------
+
+ 
+
+Telegram Чат
+------------
+
+[\@b590_macos](https://t.me/b590_macos)
